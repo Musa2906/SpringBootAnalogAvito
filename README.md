@@ -3,7 +3,7 @@
 <h2>Для запуска вам необходимо</h2>
 <ol>
     <li>Java 11</li>
-    <li>Postgres или другая бд(но тогда вам нужно будет изменить настройки application.properties)</li>
+    <li>Postgres или другая бд(но тогда вам нужно будет изменить настройки application.propertiess)</li>
 </ol>
 
 <h4>Приступим к запуску</h4>
